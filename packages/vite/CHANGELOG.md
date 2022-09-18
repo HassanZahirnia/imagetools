@@ -1,5 +1,15 @@
 # Change Log
 
+## 4.0.10
+
+### Patch Changes
+
+- 92b2fa3: chore(deps): update dependency @types/sharp to ^0.31.0
+- 80250db: Update package READMEs and metadata.
+- Updated dependencies [92b2fa3]
+- Updated dependencies [80250db]
+  - imagetools-core@3.2.2
+
 ## 4.0.9
 
 ### Patch Changes
